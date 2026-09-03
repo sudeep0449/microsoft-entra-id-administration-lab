@@ -34,9 +34,10 @@ A hands-on lab covering identity and access management using Microsoft Entra ID 
 
 Successfully demonstrated practical administration of Microsoft Entra ID, including identity management, user lifecycle management, authentication security, and access control — core skills for IT Help Desk and Junior System Administrator roles working with cloud identity platforms.
 
-## Full Documentation
+## Repository Contents
 
-[`Labs of Microsoft AzurePortal.pdf`](<./Labs of Microsoft AzurePortal.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`Labs of Microsoft AzurePortal.pdf`](<./Labs of Microsoft AzurePortal.pdf>) — full step-by-step write-up
+- [`entra id admin ss/`](<./entra id admin ss>) — implementation evidence (user management, MFA, password resets, and access control)
 
 ## Author
 
